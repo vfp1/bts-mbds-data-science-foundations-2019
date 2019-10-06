@@ -8,6 +8,7 @@ dependencies:
   - scipy
   - statsmodels
   - pandas
+  - geopandas
   - pyarrow
   - matplotlib
   - seaborn
