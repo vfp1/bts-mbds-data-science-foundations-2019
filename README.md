@@ -18,6 +18,5 @@ or the command line:
  `git clone "url to repo"`
  
  Whenever a change is made by Vic, do this:
- 
- `git update`
+
  `git pull`
