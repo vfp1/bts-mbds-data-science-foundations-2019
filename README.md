@@ -20,3 +20,7 @@ or the command line:
  Whenever a change is made by Vic, do this:
 
  `git pull`
+ 
+ ## Resources used
+ * [Jake's Amazing Pandas Book](https://jakevdp.github.io/PythonDataScienceHandbook/)
+ * [Pandas Cookbook](https://github.com/jvns/pandas-cookbook)
