@@ -27,7 +27,6 @@ from
 or
 had
 by
-hot
 word
 but
 what
